@@ -33,7 +33,7 @@ IT Infrastructure Management
 ---
 
 ### 📫 Connect With Me
-[LinkedIn](#) • [Portfolio](#) • [Email](#)
+[LinkedIn](https://www.linkedin.com/in/sidharth-m-k/) • [Email](mailto:sidharthmk6@gmail.com)
 
 ---
 
