@@ -7,28 +7,28 @@
 ---
 
 ### ✨ About Me
-- 🎓 B.Tech IT @ Chennai Institute of Technology    
-- 🚀 Learning tech from basics to advanced  
-- 🧩 Building full-stack projects 
+- B.Tech IT @ Chennai Institute of Technology    
+- Learning tech from basics to advanced  
+- Building full-stack projects 
 
 ---
 
 ### 🛠 Tech Stack
-```
+
 Frontend: React, TailwindCSS  
 Backend: Flask  
 Database: MongoDB, SQLite  
 Infra: Virtualization, ITIL  
-Languages: Python, C, C++, Java (Foundations)```
+Languages: Python, C, C++, Java (Foundations)
 
 ---
 
 ### 🌱 Currently Learning
-```
+
 Azure Fundamentals  
 Virtualization & Hypervisors  
 IT Infrastructure Management  
-```
+
 
 ---
 
@@ -37,11 +37,5 @@ IT Infrastructure Management
 
 ---
 
-### 🧸 Mini Doodle
-```
-(\_/)
-( •_•)  → keep learning
- / >♥
-```
 
 
