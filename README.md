@@ -9,7 +9,7 @@
 ### ✨ About Me
 - B.Tech IT @ Chennai Institute of Technology    
 - Learning tech from basics to advanced  
-- Building full-stack projects 
+- Building front-end projects 
 
 ---
 
@@ -17,7 +17,6 @@
 
 Frontend: React, TailwindCSS  
 Backend: Flask  
-Database: MongoDB, SQLite  
 Infra: Virtualization, ITIL  
 Languages: Python, C, C++, Java (Foundations)
 
