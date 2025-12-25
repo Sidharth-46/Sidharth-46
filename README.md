@@ -6,14 +6,14 @@
 
 ---
 
-### ✨ About Me
+# ✨ About Me
 - B.Tech IT @ Chennai Institute of Technology    
 - Learning tech from basics to advanced  
 - Building front-end projects 
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
 Frontend: React, TailwindCSS  
 Backend: Flask  
@@ -22,7 +22,7 @@ Languages: Python, C, C++, Java (Foundations)
 
 ---
 
-### 🌱 Currently Learning
+# 🌱 Currently Learning
 
 Azure Fundamentals  
 Virtualization & Hypervisors  
